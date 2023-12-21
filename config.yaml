@@ -1,0 +1,6 @@
+rpcURL: "https://ethereum-holesky.publicnode.com"
+privateKey: "1111"
+transferTo: "0x3B5F85e7B9F2eBa15D1230f7635160D42580f36B"
+inscription:  '{"p":"zrc-20","op":"mint","tick":"zks","amt":"1000"}'
+amount: 0.01
+numTxs: 5
